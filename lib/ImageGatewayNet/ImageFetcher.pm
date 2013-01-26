@@ -1,4 +1,4 @@
-package CIG::ImageFetcher;
+package ImageGatewayNet::ImageFetcher;
 
 use strict;
 use warnings;
