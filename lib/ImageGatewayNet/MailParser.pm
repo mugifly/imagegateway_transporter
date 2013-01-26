@@ -1,4 +1,4 @@
-package CIG::MailParser;
+package ImageGatewayNet::MailParser;
 
 use strict;
 use warnings;
